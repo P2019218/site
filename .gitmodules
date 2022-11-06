@@ -1,13 +1,13 @@
 
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/p2019218/_gallery
+	url = https://github.com/P2019218/_gallery
 [submodule "_quotes"]
 	path = _quotes
 	url = https://github.com/p2019218/_quotes
 [submodule "images"]
 	path = images
-	url = https://github.com/p2019218/images
+	url = https://github.com/P2019218/images
 [submodule "_bibliography"]
 	path = _bibliography
 	url = https://github.com/p2019218/bibliography
