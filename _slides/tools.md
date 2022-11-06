@@ -24,5 +24,6 @@ slides:
   - reactivision-simulator
   - reactable-fountain
   - microsoftoffice365
+  - Kaizala
 ---
 
