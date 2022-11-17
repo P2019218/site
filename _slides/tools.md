@@ -23,7 +23,7 @@ slides:
   - reactable-music
   - reactivision-simulator
   - reactable-fountain
-  - Microsoft-Kaizala
-  - office365
+  - metasploit
+ 
 ---
 
