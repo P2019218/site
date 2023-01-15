@@ -12,4 +12,4 @@ tags:
   - Linux
 ---
 
-{% include Blackarch.md %}
+{% include Blackarch-cs.md %}
